@@ -1,5 +1,6 @@
 # Thiết kế và Mô phỏng Bộ lọc FIR và IIR
-##Digital Signal Processing project
+## Digital Signal Processing project
+
 Dự án này cung cấp các công cụ để thiết kế và mô phỏng các bộ lọc FIR (Finite Impulse Response) và IIR (Infinite Impulse Response) trong Python.
 
 ## Cài đặt
